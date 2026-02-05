@@ -1,12 +1,12 @@
 // file name very used in logic like template-block.
-name: "template"
+name: "xe"
 
-displayName: "Mod Template"
-repo: "Fat-Bird-Owner/Mindustry-mod-template-hjson"
+displayName: "[tan[]]Campaign Extended"
+repo: "Fat-Bird-Owner/campaign-extended"
 subtitle: ""
 author: ""
 
-description: ""
+description: "Extends and replaces some sectors to have gimmicks, Plus a small bit of new content."
 
 iosCompatible: true
 version: "v1"
